@@ -5,7 +5,7 @@
 </h1>
 
 # I'm Md Sharifuzzaman Shajib, 
-#### Studing in CSE at Gopalganj Sciecne and Technology University, Gopalganj-8100, Bangladesh.
+#### Studied in CSE at Gopalganj Sciecne and Technology University, Gopalganj-8100, Bangladesh.
 - I'm  pationate about JavaScript (ReactJS, NextJS, NestJS) and Machine Learning.
 - I'm currently learning Golang
 - How to reach me: <a href="mailto: shajib2999@gmail.com">shajib2999@gmail.com</a>
