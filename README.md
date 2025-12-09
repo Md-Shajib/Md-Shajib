@@ -29,15 +29,25 @@
 <hr>
 
 <h2 align="center">⚡GitHub Stats⚡</h2>
-  <table>
+
+<table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shajib&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Md-Shajib&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-      <tr>
-    <td valign="top"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Shajib&theme=dark&mode=weekly" alt="GitHub Streak" /></a></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shajib&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Md-Shajib&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Shajib&theme=dark&mode=weekly" alt="GitHub Streak" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
