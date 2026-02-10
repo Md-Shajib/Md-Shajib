@@ -8,7 +8,7 @@
 #### Studied in CSE at Gopalganj Sciecne and Technology University, Gopalganj-8100, Bangladesh.
 - I'm  pationate about JavaScript (ReactJS, NextJS, NestJS) and Machine Learning.
 - I'm currently learning Golang
-- How to reach me: <a href="mailto: shajib.dev.bd@gmail.com">shajib2999@gmail.com</a>
+- How to reach me: <a href="mailto: shajib.dev.bd@gmail.com">shajib.dev.bd@gmail.com</a>
 <hr>
 
 <h3>🌐 Connect With Me:</h3>
